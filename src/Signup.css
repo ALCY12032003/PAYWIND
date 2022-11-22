@@ -65,6 +65,7 @@
     padding-left: 80px;
     padding-right: 13px;
     display: flex;
+    margin-top: -10px;
   }
   
   .sign {
@@ -168,4 +169,42 @@
     display: flex;
     font-family: Times;
     text-decoration: none;
+  }
+  .dhivu{
+    margin-top: -20px;
+    font-family: Times;
+    font-size: 20px;
+    text-decoration: none;
+    color: #000;
+  }
+ 
+  .g{
+    color: #4885ed;
+    text-decoration: none;
+
+  }
+  .o{
+    color: #db3236;
+    text-decoration: none;
+
+  }
+  .ol{
+    color: #f4c20d;
+    text-decoration: none;
+
+  }
+  .gl{
+    color: #4885ed;
+    text-decoration: none;
+
+  }
+  .l{
+    color: #3cba54;
+    text-decoration: none;
+
+  }
+  .e{
+    color: #db3236;
+    text-decoration: none;
+
   }

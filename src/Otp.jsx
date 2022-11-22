@@ -17,6 +17,8 @@ const Otp = () => {
           <button className="rectang">
             <Link to="/Verification" className="confirm">CONFIRM</Link>
           </button>
+          <a href="http://127.0.0.1:5500/src/click_me/index.html" className="dk" target="_blank">HELP</a>
+
         </div>
       </div>
     </div>

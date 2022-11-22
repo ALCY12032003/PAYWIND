@@ -22,6 +22,8 @@ const Verification = () => {
           <button className="rectangle-104">
             <Link to="/Profile" className="confirm">CONFIRM</Link>
           </button>
+          <a href="http://127.0.0.1:5500/src/click_me/index.html" className="dkd" target="_blank">HELP</a>
+
         </div>
       </div>
     </div>

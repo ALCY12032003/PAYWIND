@@ -17,6 +17,8 @@ const Tpage = () => {
           <img className="bhim" />
         </div>
         <button className="rectangle-89">PROCEED</button>
+        <a href="http://127.0.0.1:5500/src/click_me/index.html" className="dency" target="_blank">HELP</a>
+
       </div>
     </div>
   );

@@ -136,3 +136,11 @@
     line-height: 39px;
     display: flex;
   }
+
+  .dency{
+    font-size: 20px;
+    margin-top: -70px;
+    margin-left: 30px;
+    color: rgb(0, 0, 0);
+    font-family: Times;
+  }

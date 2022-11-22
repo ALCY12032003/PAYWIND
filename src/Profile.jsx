@@ -22,6 +22,8 @@ const Profile = () => {
             type="text"
           />
           <Link to="/Success" className="rectangle-117">CREATE</Link>
+          <a href="http://127.0.0.1:5500/src/click_me/index.html" className="val" target="_blank">HELP</a>
+
         </div>
       </div>
     </div>

@@ -8,6 +8,7 @@ import Otp from "./Otp";
 import Verification from "./Verification";
 import Success from "./Success";
 import Tpage from "./Tpage";
+import Client from "./Client";
 
 
 import {BrowserRouter,Routes,Route} from "react-router-dom";
@@ -26,7 +27,7 @@ function App()
         <Route path='Verification' element ={<Verification/>}></Route>
         <Route path='Success' element ={<Success/>}></Route>
         <Route path='Tpage' element ={<Tpage/>}></Route>
-
+        <Route path='Client' element ={<Client/>}></Route>
     </Routes> 
     </BrowserRouter>
     )

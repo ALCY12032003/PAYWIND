@@ -52,7 +52,7 @@
   }
   
   .stfu{
-    height: 100%;
+    height: 660px;
     z-index: 1;
     background-color: #fff;
     border: 0 solid #000;
@@ -64,10 +64,11 @@
     padding-left: 80px;
     padding-right: 13px;
     display: flex;
+    margin-top: -20px;
   }
   
   .sign{
-    margin-top: -20px;
+    margin-top: -10px;
     font-family: Times;
     font-size: 60px;
     line-height: 40px;
@@ -169,3 +170,18 @@
     font-size: 20px;
   }
 
+.g{
+  margin-top: -20px;
+  font-family: Times;
+  font-size: 20px;
+  text-decoration: none;
+  color: #000;
+}
+
+.help{
+  font-size: 20px;
+  margin-top: -80px;
+  margin-left: 330px;
+  color: rgb(0, 4, 255);
+  font-family: Times;
+}

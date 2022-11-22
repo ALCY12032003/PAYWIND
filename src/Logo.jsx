@@ -8,11 +8,11 @@ import Welcome from './Welcome';
 class Logo extends Component {
 render() {
 	return (
-        <div className="bg">
+        <div className="hain">
             <img className="logo" />
             <br></br>
-          <Link to="/Welcome" className="note">Get Started!</Link>
-        </div>
+          <Link to="/Welcome" className="note1">Get Started!</Link>
+          </div>
 	);
 }
 }

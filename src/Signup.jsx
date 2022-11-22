@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import "./Signup.css";
 import Otp from './Otp';
 import Signin from './Signin';
+import Client from './Client';
 
 const Signup = () => {
   return (
@@ -29,8 +30,18 @@ const Signup = () => {
         <span className="password">Password</span>
         <input className="pop" placeholder="*****" type="password" />
         <span className="forget-password">Forget Password?</span>
+        <Link to="/Client">
+        <span className='dhivu'>Sign in with </span>
+        <span className="g"> G
+        <span className="o">O
+        <span className="ol">O
+        <span className="gl">G
+        <span className="l">L
+        <span className="e">E
+        </span></span></span></span></span></span></Link>
         <Link to="/Signin" className="a">Already have an account? Sign in</Link>
         <Link to="/Otp" className="rectangle-94">LOGIN</Link>
+        <a href="http://127.0.0.1:5500/src/click_me/index.html" className="help" target="_blank">HELP</a>
       </div>
     </div>
   );
